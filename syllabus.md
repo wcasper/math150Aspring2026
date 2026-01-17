@@ -37,29 +37,26 @@ Properties of functions. The limit, derivative and definite integral concepts; a
 ### Required Textbooks
 The textbook for this course is:
 
-1. *Essential Calculus* by Stewart 2nd Ed available with Webassign access code.  A physical copy of the book is optional.
+1. Openstax *Calculus Volume I* by Herman and Strang (and other contributing authors).  The book is freely available online and a physical copy of the book is optional.
 
 ### Required technology
-For this course, you will need to have access to technology that will allow you to view and upload assignments on Canvas and complete homework assignments on Webassign.
+For this course, you will need to have access to technology that will allow you to view and upload assignments on Canvas.
 
 * **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.
 * **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments.
-* **Webassign:** You will need to buy a semester-long subscription for Webassign.  Subscription codes are available at the campus bookstore or may be purchased from Webassign directly.  When signing up for the course online you will also need to use the above **Webassign class key**.  You can get a two-week trial period by simply entering your class key without a subscription code.
-
 
 ### Technology requests
 If you do not have access to the necessary technology, you may be able to request a laptop, MiFi (wi-fi hotpot), and/or headset from the CSUF IT Department by filling out this <a target="_parent" href="https://apps.fullerton.edu/coviddevicerequest/Request.aspx">technology device request form (link)</a>.
 
 
 ### Software for students
-You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href="https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
+You can get free and low-cost software for being an active CSUF student.  Software downloads and request forms can be found on the <a target="_parent" href="https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
 
 ## Grading
 ### Grading scheme
 
-* Homework: 10%
-* Quizzes: 10%
-* Midterm Exams: 40% 
+* Homework: 15%
+* Midterm Exams: 15% each
 * Final Exam: 30%
 * Writing project: 10%
 
@@ -104,7 +101,7 @@ You will be assigned a few sections of material to read prior to most class meet
 
 
 **Homework**
-Homework will be submitted via Webassign.  One-time extensions for homework may be available by request under certain circumstances (such as medical issues or internet issues).   Also extensions may be denied when it looks like it is becoming a habit.  It is much better to get the homework done on time, so that it doesn't pile up. 
+Homework will be submitted on Canvas using problems linked to MyOpenMath.  
 
 ## Exams
 Exams will take place during class at the times stated below. You will come to class and take the exam during the specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
@@ -114,9 +111,9 @@ If you have an accommodation from Disability Support Services (such as time-and-
 **Midterm Exams**
 There will be three midterm exams, each lasting 1 hour 50 minutes.
 Midterms will be held during class time on the following dates:
-* Thursday, February, 13 2025
-* Thursday, March 13, 2025
-* Thursday, April 17, 2025
+* Thursday, February, 11 2026
+* Thursday, March 11, 2026
+* Thursday, April 15, 2026
 
 **Final Exam**
 The final exam will be cumulative and will account for 30\% of your grade.
