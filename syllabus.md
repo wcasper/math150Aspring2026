@@ -111,15 +111,15 @@ If you have an accommodation from Disability Support Services (such as time-and-
 **Midterm Exams**
 There will be three midterm exams, each lasting 1 hour 50 minutes.
 Midterms will be held during class time on the following dates:
-* Thursday, February, 11 2026
-* Thursday, March 11, 2026
-* Thursday, April 15, 2026
+* Wednesday, February, 11 2026
+* Wednesday, March 11, 2026
+* Wednesday, April 15, 2026
 
 **Final Exam**
 The final exam will be cumulative and will account for 30\% of your grade.
 It will be held
-* Section 08: Tuesday, May 13 from 09:00AM-10:50AM
-* Section 16: Tuesday, May 13 from 01:00PM-02:50PM
+* Section 08: Monday, May 11 from 09:00AM-10:50AM
+* Section 16: Monday, May 11 from 01:00PM-02:50PM
 
 ## Important academic calendar dates
 * January 17
