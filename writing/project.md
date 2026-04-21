@@ -7,8 +7,8 @@ permalink: /writing/project
 The website [upwork.com](upwork.com) connects companies requiring technical work with subject experts in various fields.  One day, while browsing mathematics-related projects looking for help, you find the following ads:
 
 * [Numbers guy needed for scene design](scene.html)
+* [NASA requires critical search radius estimates](splash.html)
 * [Searching for math help for aeronautics design](glider.html)
-* [Looking for math guru for education startup](education.html)
 * [Seeking mathematics specialist for rocket telemetry](rocket.html)
 * [Container manufacturer needs a good analyst](cans.html)
 
