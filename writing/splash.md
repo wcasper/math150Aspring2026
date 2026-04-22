@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orion splashdown search radius
-permalink: /writing/scene
+permalink: /writing/splash
 ---
 
 Based on experience from the first two Artemis missions, NASA needs 
