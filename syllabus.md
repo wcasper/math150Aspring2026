@@ -13,19 +13,17 @@ permalink: /syllabus
 
 **Office hourse:** Tuesday, Wednesday, and Thursday 3-4PM.  Additional office hours are available by request.
 
-**Course website:** we will use Canvas website (Spring 2023 MATH 350-2 18781), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math150Aspring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Spring 2026 MATH 150A-5), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math150Aspring2026">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 **MyOpenMath class key:** 
 
 
 ## Course meeting information
-* Section: 05 and 15
+* Section: 05
 * Course ID:
   - Section 05: 18823
-  - Section 15: 18963
 * Time:
   - Section 05: MW 10:00AM-11:50AM
-  - Section 15: MW 01:00PM-02:50PM
 * Meeting Dates: 01/21/2026-05/14/2026
 * Location: MH 512
 
@@ -118,8 +116,7 @@ Midterms will be held during class time on the following dates:
 **Final Exam**
 The final exam will be cumulative and will account for 30\% of your grade.
 It will be held
-* Section 08: Monday, May 11 from 09:00AM-10:50AM
-* Section 16: Monday, May 11 from 01:00PM-02:50PM
+* Section 08: Monday, May 11 from 11:00AM-12:50AM
 
 ## Important academic calendar dates
 * January 17
